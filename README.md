@@ -42,6 +42,7 @@ Please feel free to browse through my repos and/or reach out to me!
 ### _Tools:_
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width=50 hspace="5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="VSCode" width=50 hspace="5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width=50 hspace="5"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width=50 hspace="5" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width=50 hspace="5" />
