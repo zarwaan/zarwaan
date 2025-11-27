@@ -5,6 +5,8 @@ Hey there! 👋 My name is Zarwaan Shroff and I am currently a first year MTech 
 
 I am excited to apply my skills and showcase my work including my personal, academic and professional projects here.
 
+I also like movies.
+
 Please feel free to browse through my repos and/or reach out to me!
 
 ## 🚀 Skills (varied proficiency)
