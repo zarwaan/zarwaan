@@ -53,8 +53,6 @@ Please feel free to browse through my repos and/or reach out to me!
 ## 📊 My Github Stats
 Always striving to do better! 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zarwaan&hide=prs,issues&show_icons=true&theme=holi)](https://github.com/zarwaan)
-
 [![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarwaan&layout=pie&size_weight=0.5&count_weight=0.5&card_width=330&theme=holi)](https://github.com/zarwaan)
 
 [![My GitHub Streak](https://github-readme-streak-stats-three-beryl.vercel.app?user=zarwaan&theme=holi-theme)](https://github.com/zarwaan)
